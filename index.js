@@ -1,6 +1,7 @@
 class Cat {
+  constructor(name);
   speak() {
-    return 
+    return `${this.name} says meow!`
   }
 }
 
