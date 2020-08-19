@@ -1,5 +1,7 @@
 class Cat {
-  speak()
+  speak() {
+    return 
+  }
 }
 
 class Dog {
